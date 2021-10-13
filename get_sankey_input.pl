@@ -72,7 +72,7 @@ while(<IN>){
 }
 close IN;
 
-my $raw_link = $outdir . '/raw.lin.txt';
+my $raw_link = $outdir . '/raw.link.txt';
 my $link_sankey = $outdir . '/link.sankey.txt';
 my $node_sankey = $outdir . '/node.sankey.txt';
 
