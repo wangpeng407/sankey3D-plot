@@ -1,0 +1,9 @@
+minimum_taxa	=	species	
+top_num	=	15
+kindom	=	/Users/wangpeng/novo2019/01.analysis_tools/git_doc/sankey_plot/git_upload//input/out.k.absolute.xls
+phylum	=	/Users/wangpeng/novo2019/01.analysis_tools/git_doc/sankey_plot/git_upload//input/out.p.absolute.xls
+class	=	/Users/wangpeng/novo2019/01.analysis_tools/git_doc/sankey_plot/git_upload//input/out.c.absolute.xls
+order	=	/Users/wangpeng/novo2019/01.analysis_tools/git_doc/sankey_plot/git_upload//input/out.o.absolute.xls
+family	=	/Users/wangpeng/novo2019/01.analysis_tools/git_doc/sankey_plot/git_upload//input/out.f.absolute.xls
+genus	=	/Users/wangpeng/novo2019/01.analysis_tools/git_doc/sankey_plot/git_upload//input/out.g.absolute.xls
+species	=	/Users/wangpeng/novo2019/01.analysis_tools/git_doc/sankey_plot/git_upload//input/out.s.absolute.xls
